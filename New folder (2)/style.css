@@ -1,0 +1,70 @@
+#div1
+        {
+            background-image: url(27625122_1477078492389694_6754297650841856918_o.jpg);
+            width: 1400px;
+            height: 600px;
+            background-size: cover;
+            
+        }
+        #p1
+        {
+            color: white;
+            font-size: 40
+        }
+        #div2
+        {
+            margin-left: 250px;
+            margin-top: -550px;
+            color: white
+        }
+        #p2
+        {
+            font-size: 20
+        }
+        #div2 img 
+        {
+            padding: 20px
+        }
+        #p3
+        {
+            font-size: 40px;
+            color: white;
+         margin-left: 650px;
+         margin-top: -242px
+        }
+        #div3
+        {
+            color: white;
+            margin-left: 650px;
+            
+
+        }
+        #div3 p
+        {
+            padding: 9px
+        }
+        form
+        {
+            margin-left:930px;
+            margin-top: -200
+        }
+        #in1
+        {
+            width: 150px;
+            height: 30;
+            margin-right: 10px
+            
+        }
+        #in2
+        {
+            width: 150px;
+            height: 30
+        }
+        #in3
+        {
+            width: 310px;
+            height:100px;
+            margin-top: 10px
+            
+        }
+        
